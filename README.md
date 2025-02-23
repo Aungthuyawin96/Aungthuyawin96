@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript**
 
-- 📫 How to reach me **frtenddev@gmail.com**
+- 📫 How to reach me **aungthuyawin8996**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aungthuyawin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aungthuyawin" height="30" width="40" /></a>
+<a href="https://dev.to/@aungthuyawin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@aungthuyawin" height="30" width="40" /></a>
 <a href="https://fb.com/aungthuyawin8996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aungthuyawin8996" height="30" width="40" /></a>
 <a href="https://instagram.com/aungthuya_win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aungthuya_win" height="30" width="40" /></a>
 </p>
